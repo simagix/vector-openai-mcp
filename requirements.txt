@@ -1,0 +1,7 @@
+datasets>=2.14
+flask
+openai
+pymongo>=4.3
+python-dotenv>=1.0
+sentence-transformers>=2.2
+torch>=2.0
