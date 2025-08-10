@@ -1,6 +1,6 @@
 # Vector Search + OpenAI MCP Demo
 
-This project demonstrates how to implement vector search using Sentence-Transformers locally and on MongoDB Atlas, followed by integrating OpenAI’s Model Context Protocol (MCP) for intelligent routing and semantic querying.
+This project demonstrates how to implement vector search using Sentence-Transformers locally and on MongoDB Atlas, followed by integrating OpenAI’s Model Context Protocol (MCP) for intelligent routing and semantic querying. For more details, see the [Gen AI & Vector Search](https://sites.google.com/simagix.com/genai-vector-search) guide.
 
 ## Table of Contents
 
